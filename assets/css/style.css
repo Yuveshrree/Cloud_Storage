@@ -57,7 +57,7 @@ ul li a {
 
 .section-home {
   /* width: 375px; */
-  border: 0.1px solid; /* REMOVE LATER */
+  /*border: 0.1px solid;*/ /* REMOVE LATER */
 }
 
 .notify {
@@ -228,7 +228,7 @@ select:focus {
   cursor: pointer;
   -webkit-appearance: none;
   -moz-appearance: none;
-  /*appearance: none;*/
+  appearance: none;
   display: block;
   width: 100%;
   /* -webkit-transition: all 0.3s ease-in-out;
