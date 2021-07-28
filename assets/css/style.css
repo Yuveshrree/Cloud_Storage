@@ -228,7 +228,7 @@ select:focus {
   cursor: pointer;
   -webkit-appearance: none;
   -moz-appearance: none;
-  appearance: none;
+  /*appearance: none;*/
   display: block;
   width: 100%;
   /* -webkit-transition: all 0.3s ease-in-out;
