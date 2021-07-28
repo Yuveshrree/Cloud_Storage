@@ -603,7 +603,7 @@ select:focus {
 
 @media only screen and (min-width: 25em) {
   .folders {
-    justify-content: space-evenly;
+    justify-content: space-between;
   }
 }
 
